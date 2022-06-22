@@ -2,7 +2,7 @@
 - 👀 I’m interested in security
 - 🌱 I’m currently learning  programation
 - 💞️ I’m looking to collaborate on security
-- 📫 How to reach me programation
+- 📫 How to reach me new proyect
 
 <!---
 sam231209/sam231209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
